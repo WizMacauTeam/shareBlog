@@ -11,7 +11,7 @@
 ### 1.install the blog project 
 
 ``` bash
-$ git clone https://git@github.com:WizMacauTeam/shareBlog.git 
+$ git clone git@github.com:WizMacauTeam/shareBlog.git 
 $ npm install
 ```
 
@@ -23,7 +23,7 @@ $ npm install -g hexo-cli
 ```
 
 
-## Deveplop
+## Develop
 
 
 ### 3.hexo using sever
