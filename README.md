@@ -41,7 +41,7 @@ Modify `source/_post`,using markdown format
 ## Deploy
 
 
-### 5.generate a static source to prepare to deploy
+### 5.generate a static source and prepare to deploy
 
 ``` bash
 $ hexo generate
